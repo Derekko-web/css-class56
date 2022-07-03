@@ -1,0 +1,32 @@
+h1{
+      color:red;
+      font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color:rgb(218, 214, 8);
+}
+body{
+    background-color: white;
+}
+* body{
+    border:5px solid rgb(255, 12, 174);
+}
+.header{
+    border:solid red;
+    background-color: blanchedalmond;
+}
+.item:hover img{
+opacity: 0.33;
+}
+/* .items a:link{
+    color:blue
+}
+.items a:visited{
+ color:rgb(216, 34, 34)   
+} */
+a:link{
+    color:aliceblue
+}
+a:visited{
+    color:greenyellow
+}
